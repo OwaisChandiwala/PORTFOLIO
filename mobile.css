@@ -1,0 +1,49 @@
+
+
+@media screen and (max-width:400px) {
+    .con1{
+        height: 58vw;
+    }
+    #Owais{
+        top: 1vw;
+        font-size: 3vw;
+        left: 1vw;
+        
+    }
+    #op{
+        top:1vw;
+        left: 2vw;
+        font-size: 3vw;
+        margin-right: -30vw;
+    }
+    .con2 img {
+        left: 65vw;    
+    }
+    .para h2 {
+        font-size: 7vw;
+    }
+    .para h3{
+        font-size: 4vw;
+    }
+    .icons{
+    font-size: small;
+
+    }
+    .fb{
+        font-size: 14px ;
+        top: 68vw;
+        left: 2vw;
+     }
+    .insta{
+        font-size: 14px;
+        top: 68vw;
+        
+        left: 16vw;
+     }
+    .linkedin{
+        font-size: 14px ;
+        top: 68vw;
+        left: 30vw;
+     }
+
+}
